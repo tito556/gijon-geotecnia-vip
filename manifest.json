@@ -1,6 +1,6 @@
 {
-  "name": "Gijon",
-  "short_name": "Gijon",
+  "name": "Geotecnia",
+  "short_name": "Geotecnia",
   "start_url": "/",
   "display": "standalone",
   "theme_color": "#0A2540",
@@ -11,10 +11,5 @@
       "sizes": "any",
       "type": "image/svg+xml"
     }
-  ],
-  "lang": "es",
-  "orientation": "portrait",
-  "scope": "/",
-  "description": "Servicios geotécnicos profesionales en Gijon, Spain. Estudios de suelo, ensayos y consultoría técnica.",
-  "id": "/gijon-2991"
+  ]
 }

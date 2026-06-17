@@ -1,40 +1,58 @@
-# Gijon
+# Geotecnia — Gijon
 
-> Geotechnical engineering company in Chile, providing professional services in soil mechanics, foundation engineering and site investigation.
+> Geotechnical engineering services in Gijon, España.
 
 ## Services
+- [Aislacion Sismica](https://gijon.geotecnia.vip/aislacion-sismica/)
+- [Anclajes](https://gijon.geotecnia.vip/anclajes/)
+- [Calicatas](https://gijon.geotecnia.vip/calicatas/)
+- [Calicatas Exploratorias](https://gijon.geotecnia.vip/calicatas-exploratorias/)
+- [Cbr Vial](https://gijon.geotecnia.vip/cbr-vial/)
 - [Cimentaciones](https://gijon.geotecnia.vip/cimentaciones/)
 - [Cimentaciones Superficiales](https://gijon.geotecnia.vip/cimentaciones-superficiales/)
-- [Clasificacion Suelos](https://gijon.geotecnia.vip/clasificacion-suelos/)
-- [Compactacion Dinamica](https://gijon.geotecnia.vip/compactacion-dinamica/)
-- [Compresion Simple](https://gijon.geotecnia.vip/compresion-simple/)
-- [Corte Directo](https://gijon.geotecnia.vip/corte-directo/)
-- [Drenaje Vial](https://gijon.geotecnia.vip/drenaje-vial/)
-- [Ensayo Spt](https://gijon.geotecnia.vip/ensayo-spt/)
-- [Ensayos In Situ](https://gijon.geotecnia.vip/ensayos-in-situ/)
+- [Columnas Grava](https://gijon.geotecnia.vip/columnas-grava/)
+- [Densidad Cono Arena](https://gijon.geotecnia.vip/densidad-cono-arena/)
+- [Ensayo Cpt](https://gijon.geotecnia.vip/ensayo-cpt/)
+- [Ensayos Proctor](https://gijon.geotecnia.vip/ensayos-proctor/)
 - [Estabilidad Taludes](https://gijon.geotecnia.vip/estabilidad-taludes/)
-- [Estabilizacion Cal Cemento](https://gijon.geotecnia.vip/estabilizacion-cal-cemento/)
-- [Estudio Mecanica Suelos](https://gijon.geotecnia.vip/estudio-mecanica-suelos/)
 - [Excavaciones Profundas](https://gijon.geotecnia.vip/excavaciones-profundas/)
-- [Excavaciones Subterraneas](https://gijon.geotecnia.vip/excavaciones-subterraneas/)
+- [Excavaciones Subterraneo](https://gijon.geotecnia.vip/excavaciones-subterraneo/)
 - [Exploracion](https://gijon.geotecnia.vip/exploracion/)
-- [Falla Taludes](https://gijon.geotecnia.vip/falla-taludes/)
+- [Geofisica](https://gijon.geotecnia.vip/geofisica/)
 - [Geotecnia Vial](https://gijon.geotecnia.vip/geotecnia-vial/)
 - [Granulometria](https://gijon.geotecnia.vip/granulometria/)
-- [Instrumentacion Geotecnica](https://gijon.geotecnia.vip/instrumentacion-geotecnica/)
-- [Laboratorio](https://gijon.geotecnia.vip/laboratorio/)
+- [Inyecciones](https://gijon.geotecnia.vip/inyecciones/)
+- [Laboratorio In Situ](https://gijon.geotecnia.vip/laboratorio-in-situ/)
+- [Laboratorio Lab](https://gijon.geotecnia.vip/laboratorio-lab/)
+- [Licuefaccion](https://gijon.geotecnia.vip/licuefaccion/)
+- [Limites Atterberg](https://gijon.geotecnia.vip/limites-atterberg/)
+- [Losa De Cimentacion](https://gijon.geotecnia.vip/losa-de-cimentacion/)
+- [Losas Fundacion](https://gijon.geotecnia.vip/losas-fundacion/)
+- [Masw](https://gijon.geotecnia.vip/masw/)
 - [Mejoramiento](https://gijon.geotecnia.vip/mejoramiento/)
+- [Microzonificacion Sismica](https://gijon.geotecnia.vip/microzonificacion-sismica/)
+- [Monitoreo Excavaciones](https://gijon.geotecnia.vip/monitoreo-excavaciones/)
 - [Muros Contencion](https://gijon.geotecnia.vip/muros-contencion/)
-- [Muros Pantalla](https://gijon.geotecnia.vip/muros-pantalla/)
+- [Pavimento Flexible](https://gijon.geotecnia.vip/pavimento-flexible/)
 - [Pavimento Rigido](https://gijon.geotecnia.vip/pavimento-rigido/)
-- [Pilotes Friccion Punta](https://gijon.geotecnia.vip/pilotes-friccion-punta/)
-- [Taludes Y Muros](https://gijon.geotecnia.vip/taludes-y-muros/)
-- [Veleta Campo](https://gijon.geotecnia.vip/veleta-campo/)
+- [Permeabilidad In Situ](https://gijon.geotecnia.vip/permeabilidad-in-situ/)
+- [Pilotes](https://gijon.geotecnia.vip/pilotes/)
+- [Placa De Carga](https://gijon.geotecnia.vip/placa-de-carga/)
+- [Refraccion Sismica](https://gijon.geotecnia.vip/refraccion-sismica/)
+- [Resistividad](https://gijon.geotecnia.vip/resistividad/)
+- [Resistividad Electrica Sev](https://gijon.geotecnia.vip/resistividad-electrica-sev/)
+- [Sismica](https://gijon.geotecnia.vip/sismica/)
+- [Sondajes Spt](https://gijon.geotecnia.vip/sondajes-spt/)
+- [Taludes](https://gijon.geotecnia.vip/taludes/)
+- [Tomografia Sismica](https://gijon.geotecnia.vip/tomografia-sismica/)
+- [Triaxial](https://gijon.geotecnia.vip/triaxial/)
+- [Tuneles Suelo Blando](https://gijon.geotecnia.vip/tuneles-suelo-blando/)
 - [Vibrocompactacion](https://gijon.geotecnia.vip/vibrocompactacion/)
+- [Zapatas](https://gijon.geotecnia.vip/zapatas/)
 
 ## Contact
 - Website: https://gijon.geotecnia.vip/
 
 ## About
-This page provides information about geotechnical engineering services available in Chile.
-The company complies with local and international standards including ASTM, ISO and country-specific norms.
+This site provides geotechnical engineering services in Gijon, España.
+Compliant with local and international standards (ASTM, ISO, country-specific norms).
